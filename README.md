@@ -1,14 +1,17 @@
-### Hi there 👋
 
-**sagarshetty381/sagarshetty381** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi there 👋, I'm Sagar Shetty</h1>
+<br/>
 
-Here are some ideas to get you started:
+<img align="right" src="https://github.com/sagarshetty381/sagarshetty381/assets/37378945/1cbcc511-8f66-4cae-b058-fb9081c8dc61" alt="Your image title" width="200"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+- 🔭 I’m currently working as a MEAN Stack Developer.
+  
+- 🌱 I’m currently learning Amazon Web Service and PostgreSQL.
+  
+- 💬 Ask me about Node.js, ReactJS, SQL, MongoDB, etc.
+  
+- 📫 How to reach me: [https://www.linkedin.com/in/sagarshetty381/](https://sagar-shetty.netlify.app/).
+  
+- ⚡ Fun fact: I love creating products that can make our life easier.. :heartpulse:
+  
