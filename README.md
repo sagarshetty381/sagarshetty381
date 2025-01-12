@@ -1,8 +1,7 @@
 
 <h1 align="center">Hi there 👋, I'm Sagar Shetty</h1>
+<h2 align="center"> Full Stack Engineer</h2>
 <br/>
-
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=sagarshetty381)
 
 - 🔭 I’m currently working as a MEAN Stack Developer. Looking for a remote or on-site opportunities.
     
