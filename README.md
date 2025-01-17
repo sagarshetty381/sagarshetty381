@@ -1,7 +1,8 @@
+![Yellow and Blue Bold Geometric Software Developer LinkedIn Banner (1)](https://github.com/user-attachments/assets/dc70398d-e85d-407f-a35d-4b2c202b76d0)
 
 <h1 align="center">Hi there 👋, I'm Sagar Shetty</h1>
-<h2 align="center"> Full Stack Engineer</h2>
-<br/>
+
+## <p align="center">Full Stack Engineer</p>
 
 - 🔭 I’m currently working as a MEAN Stack Developer. Looking for a remote or on-site opportunities.
     
