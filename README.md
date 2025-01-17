@@ -2,8 +2,6 @@
 
 <h1 align="center">Hi there 👋, I'm Sagar Shetty</h1>
 
-## <p align="center">Full Stack Engineer</p>
-
 - 🔭 I’m currently working as a MEAN Stack Developer. Looking for a remote or on-site opportunities.
     
 - 🌱 I’m currently learning RUST.
